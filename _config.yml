@@ -89,7 +89,7 @@ pageviews:
 #     light — Use the light color scheme
 #     dark — Use the dark color scheme
 #
-theme_mode: [light | dark]
+theme_mode: # [light | dark]
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
@@ -99,7 +99,7 @@ theme_mode: [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://scontent-xsp1-3.xx.fbcdn.net/v/t39.30808-6/451300760_7873741332746683_4679637311882536534_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeEVdA3WDvmJEHbZGkqTeUxbCPqUhaAc1HUI-pSFoBzUdWuqiALpEk9v1R-xYNhj8UhTnQNxyWNiR-Vbof2kxaTP&_nc_ohc=GV5n82e3h6sQ7kNvgE9WG0F&_nc_ht=scontent-xsp1-3.xx&_nc_gid=ARBMcvgy1DigDArSR_Mm7_A&oh=00_AYCA85-NQMml6WCPPWv1TNRdR_oCQQj0rjkcT6pWQd9Lqg&oe=6705F1A5
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.

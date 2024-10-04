@@ -2,21 +2,47 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://localhost:4000/</id>
-  <title>Chirpy</title>
-  <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2024-10-04T17:51:22+00:00</updated>
+  <title>Matt-space</title>
+  <subtitle>The Giver</subtitle>
+  <updated>2024-10-05T01:29:23+07:00</updated>
   <author>
-    <name>your_full_name</name>
+    <name>minhtuan-matt</name>
     <uri>http://localhost:4000/</uri>
   </author>
   <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="en"
     href="http://localhost:4000/"/>
   <generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator>
-  <rights> © 2024 your_full_name </rights>
+  <rights> © 2024 minhtuan-matt </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>The differences between policies</title>
+    <link href="http://localhost:4000/posts/difference-between-policies/" rel="alternate" type="text/html" title="The differences between policies" />
+    <published>2024-10-04T19:21:12+07:00</published>
+  
+    <updated>2024-10-04T19:21:12+07:00</updated>
+  
+    <id>http://localhost:4000/posts/difference-between-policies/</id>
+    <content src="http://localhost:4000/posts/difference-between-policies/" />
+    <author>
+      <name>author1_id</name>
+    </author>
+
+  
+    
+    <category term="machine_learning" />
+    
+    <category term="reinforcement_learning" />
+    
+  
+
+  <summary>Short summary of the post</summary>
+
+  </entry>
 
 </feed>
 
